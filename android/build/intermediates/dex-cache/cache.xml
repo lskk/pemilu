@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\29jan\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\29jan\app\build\intermediates\pre-dexed\debug\android-query-full.0.26.8_d6424586822ae3ef23658f9bb72c5fe620bd27f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\30jan\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40bdfd7047f39212aa13cdb0cb37c6960a14f555">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\30jan\app\build\intermediates\pre-dexed\debug\classes_0f9887a545cc2261b7c08eb176d6229a2a47d87a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\26des\app\build\intermediates\pre-dexed\debug\gson-2.7_e91aaaeefc9d0e34c5593c352b5ab0f649f19d06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\26des\app\build\intermediates\pre-dexed\debug\retrofit-2.3.0_70e544e398ffffc0eda00c6bcccee4d7e6b15938.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\26des\app\build\intermediates\pre-dexed\debug\converter-gson-2.3.0_2893d0f44852f56350d1234679c14da8c4f3b691.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\26des\app\build\intermediates\pre-dexed\debug\okhttp-3.8.0_88878cff2be28d15569c76aea0fb7d19d16a2310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\21nov\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40bdfd7047f39212aa13cdb0cb37c6960a14f555">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\21nov\app\build\intermediates\pre-dexed\debug\classes_848edd7f339f0d3598500d7a32f85292bf0765ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\21jan\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\21jan\app\build\intermediates\pre-dexed\debug\android-query-full.0.26.8_f2e817ae87901f1b23997bc48d6438fd76072e13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\19des\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\19des\app\build\intermediates\pre-dexed\debug\android-query-full.0.26.8_3039aa43150d863882b7bda0c0c17545014c6c86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.3.0\1eaa5762cb25c31b1905e2bfdfef70a2e0495ea6\converter-scalars-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1eaa5762cb25c31b1905e2bfdfef70a2e0495ea6">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\26des\app\build\intermediates\pre-dexed\debug\converter-scalars-2.3.0_55f1edd4160c2409699244909e8a5347bd3a3702.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\30jan\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\30jan\app\build\intermediates\pre-dexed\debug\android-query-full.0.26.8_3b773b2c79cd555ca9e625c8fe873553eab049bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\093443eb383df4aae40c4717872cbccc392ba625\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5640136cf422060a7077e2c02d9a231d7c76f959">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\26des\app\build\intermediates\pre-dexed\debug\classes_d4784a6e43e27b31949f66c718fc1b0ab212e187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\29jan\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40bdfd7047f39212aa13cdb0cb37c6960a14f555">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\29jan\app\build\intermediates\pre-dexed\debug\classes_3ee83a5aa3d43f1154d8b82947bd0d920d5cd38e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\21jan\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40bdfd7047f39212aa13cdb0cb37c6960a14f555">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\21jan\app\build\intermediates\pre-dexed\debug\classes_de1372097e66fca2a0dc842748d8727a0ebc9618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.android\build-cache\1e2f893e73963bb620e583678012bc55ba8b7cfc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab3193b438e37f7b0a634cc2dfebbf92892ea90c">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\26des\app\build\intermediates\pre-dexed\debug\classes_990e065a993afadfc1d41edc3575f6db83473878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\26des\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40bdfd7047f39212aa13cdb0cb37c6960a14f555">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\26des\app\build\intermediates\pre-dexed\debug\classes_1978cfd2b42a1999b7fadab7bcb7932ecdd892a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\26des\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\26des\app\build\intermediates\pre-dexed\debug\android-query-full.0.26.8_385d9a87b394f1cab52de2631bb22a496f8bef69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\26des\app\build\intermediates\pre-dexed\debug\okio-1.13.0_5441e4e59d2abf7e1391d8275637c0a3092e5623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\19des\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40bdfd7047f39212aa13cdb0cb37c6960a14f555">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\19des\app\build\intermediates\pre-dexed\debug\classes_15a50b85d5a816b37dbd19d6ea414adcf2a597af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\USER\AndroidStudioProjects\21nov\app\libs\android-query-full.0.26.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ab405d9f4eaf5ddd615967cd35650657b758d40">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\21nov\app\build\intermediates\pre-dexed\debug\android-query-full.0.26.8_770d0c165164ee8bcc839987429e0a31fac6ea30.jar" />
+    </item>
+
+</items>
