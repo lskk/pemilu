@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+html, body {
+	margin:0px;  
+	overflow:hidden; 
+
+}
+
+#map {
+	float:left;
+	width:800px;
+	height:500px;
+	border:1px;
+	background-color:#fff;  
+	position:relative;
+}
+#ket{
+	float:right; 
+	width:200px;
+	height:500px;
+	border:1px;	
+	background-color:#eee;  
+	padding:0px;
+}
+.timeline-username {
+	text-align: center;
+}
